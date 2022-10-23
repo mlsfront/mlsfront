@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" width="78"/> Bem-vindos!</h1>
 
-<!--
-**mlsfront/mlsfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+> ### A vida é uma escola e o dia dia uma lição!
+>
+>> Só depende de você.
+>
+>>> Faça acontecer.
+>
+>>>> Boas Novas?!
+>
+>>>> `O reino de Deus está próximo - JESUS está voltando!`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Analytics ⚙️
+
+<div>
+  <a href="https://github.com/mlsfront">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlsfront&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlsfront&layout=compact&langs_count=7&theme=dracula"/></a>
+</div>
