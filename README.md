@@ -18,7 +18,7 @@
 <h2> Tecnologias - IDEs:<h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,js,css,php,react,nodejs,laravel,wordpress,bootstrap,mysql,java,md,py,qt,vscode,atom,androidstudio,eclipse,git,github,linux,svg,aws" />
+      <img src="https://skillicons.dev/icons?i=html,js,css,php,react,nodejs,laravel,wordpress,bootstrap,mysql,java,md,py,solidity,qt,codepen,vscode,atom,androidstudio,eclipse,git,github,linux,svg,aws,docker" />
     </a>
   </p>
 </div>
