@@ -25,9 +25,9 @@
 
 <div align="right">  
   <h2>Analytics ⚙️</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlsfront&show_icons=true&locale=en&layout=compact" alt="mlsfront" /></p>
+  <p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mlsfront&show_icons=true&locale=en&layout=compact" alt="mlsfront" /></p>
   
-  <p><img src="https://github-readme-stats.vercel.app/api?username=mlsfront&show_icons=true&locale=en" alt="mlsfront" /></p>
+  <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlsfront&show_icons=true&locale=en" alt="mlsfront" /></p>
   
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mlsfront&" alt="mlsfront" /></p>
 </div>
@@ -35,7 +35,7 @@
 <div align="center">
   <h2>Emojis</h2>
   
-  ### Expressões faciais
+  ### Reações
   | :smile: `:smile:` | :laughing: `:laughing:` | :blush: `:blush:` |
   |---|---|---|
   | :smiley: `:smiley:` | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` |
@@ -87,7 +87,10 @@
   | :art: `:art:`  | :microphone: `:microphone:`  | :headphones: `:headphones:`  |
   | :trumpet: `:trumpet:`  | :saxophone: `:saxophone:`  | :guitar: `:guitar:`  |
   | :crown: `:crown:`  | :briefcase: `:briefcase:`  | :fork_and_knife: `:fork_and_knife:`  |
+
+  ### Alimentos
   | :pizza: `:pizza:`  | :hamburger: `:hamburger:`  | :fries: `:fries:`  |
+  |---|---|---|
   | :poultry_leg: `:poultry_leg:`  | :meat_on_bone: `:meat_on_bone:`  | :spaghetti: `:spaghetti:`  |
   | :bread: `:bread:`  | :doughnut: `:doughnut:`  | :custard: `:custard:`  |
   | :icecream: `:icecream:`  | :ice_cream: `:ice_cream:`  | :shaved_ice: `:shaved_ice:`  |
