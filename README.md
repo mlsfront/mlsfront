@@ -14,25 +14,57 @@
 
 <br>
 
-<div align="left">   
-<h2> Tecnologias - IDEs:<h2>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,js,css,php,react,nodejs,laravel,wordpress,bootstrap,mysql,java,md,py,solidity,qt,codepen,vscode,atom,androidstudio,eclipse,git,github,linux,svg,aws,docker" />
-    </a>
-  </p>
+<div align="center">   
+  <h2> Tecnologias:<h2>
+    <table>
+      <tr>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=md"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py"></a></td>
+		  </tr>
+  		<tr>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qt"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=codepen"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=atom"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svg"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws"></a></td>
+  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker"></a></td>
+  		</tr>
+	  </table>
 </div>
 
-<div align="right">  
+<br>
+
+<div align="center">
   <h2>Analytics ⚙️</h2>
+  
   <p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mlsfront&show_icons=true&locale=en&layout=compact" alt="mlsfront" /></p>
-  
+    
   <p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlsfront&show_icons=true&locale=en" alt="mlsfront" /></p>
-  
+    
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mlsfront&" alt="mlsfront" /></p>
 </div>
 
-<div align="center">
+<br>
+
+<div align="left">
   <h2>Emojis</h2>
   
   ### Reações
