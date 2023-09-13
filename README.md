@@ -14,40 +14,52 @@
 
 <br>
 
-<div align="center">   
-  <h2> Tecnologias:<h2>
-    <table>
-      <tr>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=md"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py"></a></td>
-		  </tr>
-  		<tr>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qt"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=codepen"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=atom"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=androidstudio"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svg"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws"></a></td>
-  			<td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker"></a></td>
-  		</tr>
-	  </table>
+<div aling="center">   
+<h2> Tecnologias:<h2>
+<table align="center">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=html"></td>
+<td><img src="https://skillicons.dev/icons?i=js"></td>
+<td><img src="https://skillicons.dev/icons?i=css"></td>
+<td><img src="https://skillicons.dev/icons?i=php"></td>
+<td><img src="https://skillicons.dev/icons?i=react"></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs"></td>
+</tr>
+</table>
+	
+<table align="center">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=laravel"></td>
+<td><img src="https://skillicons.dev/icons?i=wordpress"></td>
+<td><img src="https://skillicons.dev/icons?i=bootstrap"></td>
+<td><img src="https://skillicons.dev/icons?i=mysql"></td>
+<td><img src="https://skillicons.dev/icons?i=java"></td>
+<td><img src="https://skillicons.dev/icons?i=md"></td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=py"></td>
+<td><img src="https://skillicons.dev/icons?i=solidity"></td>
+<td><img src="https://skillicons.dev/icons?i=qt"></td>
+<td><img src="https://skillicons.dev/icons?i=codepen"></td>
+<td><img src="https://skillicons.dev/icons?i=vscode"></td>
+<td><img src="https://skillicons.dev/icons?i=atom"></td>
+<td><img src="https://skillicons.dev/icons?i=eclipse"></td>
+</tr>
+</table>
+<table align="center">
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git"></td>
+<td><img src="https://skillicons.dev/icons?i=github"></td>
+<td><img src="https://skillicons.dev/icons?i=linux"></td>
+<td><img src="https://skillicons.dev/icons?i=svg"></td>
+<td><img src="https://skillicons.dev/icons?i=aws"></td>
+<td><img src="https://skillicons.dev/icons?i=docker"></td>
+<td><img src="https://skillicons.dev/icons?i=androidstudio"></td>
+</tr>
+</table>
 </div>
 
 <br>
