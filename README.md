@@ -1,4 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif?1450372448" width="78"/> Bem-vindos!</h1>
+<h1>Bem-vindos!</h1>
+
+![Bem-vindos!](https://github.com/mlsfront/mlsfront/blob/main/sonic.gif)
 
 <br>
 
