@@ -52,16 +52,16 @@ Oi, meu nome é Marcus. Sou apaixonado por tecnologia 💻 e teologia 📖. Apos
 ![Windows](https://img.shields.io/badge/-windows-blue)
 
 ## Projetos recentes
-próximos QTRs 😊 
+[Calculadora tributária](https://github.com/mlsfront/simulador-tributario-agencias) 
 
 ## Onde me encontrar
-próximos QTRs 😉
+[GitHub](https://github.com/mlsfront)
 
 ## Interesses
 Além de tecnologia e teologia, também me interesso por marketing digital, design gráfico, filosofia, biologia, IA, ect...
 
 ## Contribuições
-próximos QTRs 😎 
+Aguardando Contribuição.
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mlsfront&show_icons=true&hide_border=true)
