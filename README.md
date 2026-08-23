@@ -13,7 +13,7 @@
 >>>> `O reino de Deus está próximo - JESUS está voltando!`
 
 ## Sobre mim
-Oi, meu nome é Marcus. Sou apaixonado por tecnologia 💻 e teologia 📖. Aposentado por invalidez 👨‍🦯, estudo para me manter atualizado e sempre aprendendo. Paulistano vivendo em Salvador, BA, Brasil.
+Oi, meu nome é Marcus. Sou apaixonado por tecnologia 💻 e teologia 📖. Aposentado 👨‍🦯, estudo para me manter atualizado e sempre aprendendo. Paulistano vivendo em Salvador, BA, Brasil.
 
 ## Minhas habilidades
 
