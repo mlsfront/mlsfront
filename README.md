@@ -13,7 +13,7 @@
 >>>>> `O reino de Deus está próximo - JESUS está voltando!`
 
 ## Sobre mim
-Olá! Sou desenvolvedor web autodidata com sólida experiência em desenvolvimento Full Stack. 
+Olá! Sou desenvolvedor web com sólida experiência em desenvolvimento Full Stack. 
 Trabalho com as tecnologias mais modernas para criar sites e lojas online profissionais, 
 responsivas e otimizadas.
 
