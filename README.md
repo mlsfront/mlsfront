@@ -10,12 +10,20 @@
 >
 >>>> Boas Novas?!
 >
->>>> `O reino de Deus está próximo - JESUS está voltando!`
+>>>>> `O reino de Deus está próximo - JESUS está voltando!`
 
 ## Sobre mim
-Oi, meu nome é Marcus. Sou apaixonado por tecnologia 💻 e teologia 📖. Aposentado 👨‍🦯, estudo para me manter atualizado e sempre aprendendo. Paulistano vivendo em Salvador, BA, Brasil.
+Olá! Sou desenvolvedor web autodidata com sólida experiência em desenvolvimento Full Stack. 
+Trabalho com as tecnologias mais modernas para criar sites e lojas online profissionais, 
+responsivas e otimizadas.
 
 ## Minhas habilidades
+
+* HTML5 e CSS3 - Criação de layouts modernos e responsivos
+* JavaScript - Desenvolvimento de funcionalidades dinâmicas e interativas
+* PHP e MySQL - Backend robusto para aplicações web
+* WordPress - Criação e customização de sites com temas e plugins
+* WooCommerce - Desenvolvimento de lojas online com todas as funcionalidades de e-commerce
 
 ### Linguagens de Programação
 ![HTML](https://img.shields.io/badge/-HTML-orange)
@@ -51,21 +59,18 @@ Oi, meu nome é Marcus. Sou apaixonado por tecnologia 💻 e teologia 📖. Apos
 ![Linux](https://img.shields.io/badge/-Linux-yellow)
 ![Windows](https://img.shields.io/badge/-windows-blue)
 
+### O que eu faço:
+- Desenvolvimento de sites personalizados do zero
+- Criação de lojas online completas com WooCommerce
+- Customização de temas WordPress para sua marca
+- Integração com sistemas de pagamento e logística
+- Manutenção e suporte técnico pós-projeto
+- Otimização de sites para melhor performance
+
 ## Projetos recentes
 [Calculadora tributária](https://github.com/mlsfront/simulador-tributario-agencias) 
 
 ## Onde me encontrar
-[GitHub](https://github.com/mlsfront)
-
-## Interesses
-Além de tecnologia e teologia, também me interesso por marketing digital, design gráfico, filosofia, biologia, IA, ect...
-
-## Contribuições
-Aguardando Contribuição.
-
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mlsfront&show_icons=true&hide_border=true)
-
-![Bem-vindos!](https://github.com/mlsfront/mlsfront/blob/main/sonic.gif) ...
+[99Freelas](https://www.99freelas.com.br/user/mlsfront)
 
 ## Obrigado por visitar, paz no seu ❤️ !
