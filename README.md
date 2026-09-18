@@ -68,7 +68,7 @@ responsivas e otimizadas.
 - Otimização de sites para melhor performance
 
 ## Projetos recentes
-[Calculadora tributária](https://github.com/mlsfront/simulador-tributario-agencias) 
+[Landing Page - Advogada](https://mlsfront.github.io/landing-page-advogada/)
 
 ## Onde me encontrar
 [99Freelas](https://www.99freelas.com.br/user/mlsfront)
