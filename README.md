@@ -1,19 +1,20 @@
-# Bem-vindo ao meu perfil! 👋
+# Bem-vindo ao meu perfil 👋
 
-## Reflexão! 🤔 
+## Reflexão 🤔 
 
-> ### A vida é uma escola e o dia dia uma lição!
+> ### A vida é uma escola e o dia dia uma lição...
 >
 >> Só depende de você.
 >
 >>> Faça acontecer.
 >
->>>> Boas Novas?!
+>>>> Boas Novas?
 >
->>>>> `O reino de Deus está próximo - JESUS está voltando!`
+>>>>> `O reino de Deus está próximo - JESUS está voltando.`
 
 ## Sobre mim
-Olá! Sou desenvolvedor web com sólida experiência em desenvolvimento Full Stack. 
+
+Olá! Sou desenvolvedor web com habilidades em desenvolvimento Full Stack. 
 Trabalho com as tecnologias mais modernas para criar sites e lojas online profissionais, 
 responsivas e otimizadas.
 
@@ -95,4 +96,4 @@ Landing page institucional, em formato one-page, criada para apresentação prof
 ## Onde me encontrar
 [99Freelas](https://www.99freelas.com.br/user/mlsfront)
 
-## Obrigado por visitar, paz no seu ❤️ !
+## Obrigado por visitar, paz no seu ❤️
