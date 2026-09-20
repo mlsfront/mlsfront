@@ -68,7 +68,30 @@ responsivas e otimizadas.
 - Otimização de sites para melhor performance
 
 ## Projetos recentes
-[Landing Page - Advogada](https://mlsfront.github.io/landing-page-advogada/)
+
+Confira alguns dos meus projetos e suas demonstrações online publicadas via GitHub Pages.
+
+### Tráfego Claro
+
+Plataforma piloto para diagnóstico de campanhas, organização de estratégias de tráfego pago, acompanhamento de leads e apresentação de resultados de marketing digital.
+
+🔗 [Acessar demonstração](https://mlsfront.github.io/trafego-claro/) . 
+[Ver código-fonte](https://github.com/mlsfront/trafego-claro)
+
+### Kanban
+
+Aplicação web desenvolvida em PHP para criação e gerenciamento de quadros Kanban, tarefas e fluxos de trabalho.
+
+🔗 [Acessar demonstração](https://mlsfront.github.io/kanban/) . 
+[Ver código-fonte](https://github.com/mlsfront/kanban)
+
+### Landing Page — Advogada
+
+Landing page institucional, em formato one-page, criada para apresentação profissional e captação de clientes na área jurídica.
+
+🔗 [Acessar demonstração](https://mlsfront.github.io/landing-page-advogada/) . 
+[Ver código-fonte](https://github.com/mlsfront/landing-page-advogada)
+
 
 ## Onde me encontrar
 [99Freelas](https://www.99freelas.com.br/user/mlsfront)
