@@ -82,8 +82,7 @@ Plataforma piloto para diagnóstico de campanhas, organização de estratégias 
 
 Aplicação web desenvolvida em PHP para criação e gerenciamento de quadros Kanban, tarefas e fluxos de trabalho.
 
-🔗 [Acessar demonstração](https://mlsfront.github.io/kanban/) . 
-[Ver código-fonte](https://github.com/mlsfront/kanban)
+🔗 [Ver código-fonte](https://github.com/mlsfront/kanban)
 
 ### Landing Page — Advogada
 
